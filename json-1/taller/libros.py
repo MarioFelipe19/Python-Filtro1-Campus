@@ -285,7 +285,7 @@ def listarLibro(lstLibro,rutafile):
     
 def main():
     
-    rutafile = "Reviews\\libros.json"
+    rutafile = "libros.json"
     lstlibro = cargarinfo(rutafile)        
     while True:
         opcion = menu()

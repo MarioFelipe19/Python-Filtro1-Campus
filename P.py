@@ -1,2 +1,0 @@
-p = "hola"
-print(p)

@@ -1,4 +1,4 @@
-#Calcular el area de un triangulo 
+#Calcular el area de un triangulo 1
 base = float(input("Digite la base del triangulo:")) 
 altura = float(input("Digite la altura del triangulo:")) 
 

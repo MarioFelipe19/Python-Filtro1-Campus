@@ -180,7 +180,7 @@ def modificarPersonal(lstPersonal, rutaFile):
 
 
 ## PROGRAMA PRINCIPAL 
-rutaFile = "json-1/datPersonal.json"
+rutaFile = "datPersonal.json"
 lstPersonal= []
 lstPersonal = cargarInfo(lstPersonal , rutaFile)
 
